@@ -19,7 +19,7 @@ A题无线通信信道建模：https://developer.huaweicloud.com/competition/com
 
 ## 提交论文
 
-[论文](https://github.com/zhhu1996/2019-Mathematical-Modeling-Competition/blob/master/Solution/A题论文.pdf)
+[A题论文](https://github.com/zhhu1996/2019-Mathematical-Modeling-Competition/blob/master/Solution/A题论文.pdf)
 
 ## 结果
 
